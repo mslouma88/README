@@ -51,6 +51,10 @@ Je suis **étudiant en Data Analytics** passionné par les **données**, les **s
   - ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
   - ![Invite de Commande](https://img.shields.io/badge/Invite%20de%20Commande-1A1A1A?style=for-the-badge&logo=windows-terminal&logoColor=white) 
   - ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+ 
+  - ## 📊 Statistiques de Contribution
+
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical)
 
 
 ## 🎓 Éducation
