@@ -63,6 +63,10 @@ Je suis **étudiant en Data Analytics** passionné par les **données**, les **s
   - Cours principaux : Python, Sql, NoSql, Cloud, Analyse des données,Visualisation de données, Machine Learning,Deep learning, Statistiques avancées,Data Streaming,
   - Projet de fin d'études : En Cours
 
+- **Master Informatique spécialité Develomment web** à **l'Ecole de management de paris**
+
+- **Master Information et communication** à **Université Toulon - Instinut Ingémedia**
+
 - **Licence en Informatique Appliquée à la gestion** à **L'université de Jendouba**
 
 ## 📬 Contact
