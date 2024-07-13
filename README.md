@@ -1,5 +1,7 @@
 # 👋 Bonjour, je suis **SALAM** 
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" alt="Bienvenue">
+
 ## 🌟 À propos de moi
 
 Je suis **étudiant en Data Analytics** passionné par les **données**, les **statistiques** et le **machine learning**. Mon objectif est de transformer les données brutes en informations précieuses pour prendre des décisions éclairées. Je suis toujours à la recherche de nouvelles opportunités pour apprendre et appliquer mes compétences dans des projets réels.
