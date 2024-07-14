@@ -78,9 +78,23 @@ Je suis **étudiant en Data Analytics** passionné par les **données**, les **s
 ## 📬 Contact
 
 
-| **Email** | **LinkedIn** | **GitHub** |
-| --------- | --------- | --------- |
-| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salam.mejri@gmail.com)  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salam-mejri/)   | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mslouma88)   |
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <a href="mailto:salam.mejri@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/salam-mejri/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+  <div>
+    <a href="https://wa.me/">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+  </div>
+</div>
 
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets intéressants!
