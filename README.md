@@ -32,6 +32,7 @@ Je suis **étudiant en Data Analytics** passionné par les **données**, les **s
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   - ![NoSQL](https://img.shields.io/badge/NoSQL-E91E63?style=for-the-badge&logo=nosql&logoColor=white)
+  - ![Cypher](https://img.shields.io/badge/Cypher-4B0082?style=for-the-badge&logo=neo4j&logoColor=white)
   - ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 - **Big Data** : 
   - ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
