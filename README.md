@@ -111,7 +111,12 @@ Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, l
 
 ## 📬 Contact
 
+<a href="mailto:salam.mejri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/salam-mejri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
+
+<!--
 <div style="display: flex; justify-content: space-between;">
   <div>
     <a href="mailto:salam.mejri@gmail.com">
@@ -129,7 +134,7 @@ Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, l
     </a>
   </div>
 </div>
-
+-->
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets intéressants!
 
