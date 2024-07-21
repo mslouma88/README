@@ -1,14 +1,22 @@
 # 👋 Bonjour, je suis **SALAM** 
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" alt="Bienvenue">
-
 ![Profile views](https://komarev.com/ghpvc/?username=mslouma88)
+![Version](https://img.shields.io/badge/version-1.5-blue.svg)
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
-## 🌟 À propos de moi
+
+<!--<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=mslouma88" alt="mslouma88" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mslouma88&label=Profile%20views&color=0e75b6&style=flat" alt="mslouma88" /> </p>
+-->
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" align="left" alt="Bienvenue">
+
+<p align="right">
+<h2>🌟 À propos de moi</h2> 
 
 Je suis **étudiant en Data Analytics** passionné par les **données**, les **statistiques** et le **machine learning**. Mon objectif est de transformer les données brutes en informations précieuses pour prendre des décisions éclairées. Je suis toujours à la recherche de nouvelles opportunités pour apprendre et appliquer mes compétences dans des projets réels.
+
+</p>
+<br>
 
 ## 🔧 Compétences
 
@@ -61,7 +69,13 @@ Je suis **étudiant en Data Analytics** passionné par les **données**, les **s
  
 ## 📊 Statistiques de Contribution
 
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical)
+<!-- ![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical) -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mslouma88&show_icons=true&locale=en&layout=compact&theme=radical" alt="mslouma88" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mslouma88&theme=radical" alt="mslouma88" /></p>
+
+<br>
 
 
 ## 🎓 Éducation
