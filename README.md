@@ -8,14 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mslouma88&label=Profile%20views&color=0e75b6&style=flat" alt="mslouma88" /> </p>
 -->
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" align="left" alt="Bienvenue">
-
 <p align="right">
 <h2>🌟 À propos de moi</h2>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" align="left" alt="Bienvenue">
+
 Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, les <b>statistiques</b> et le <b>machine learning<b>. Mon objectif est de transformer les données brutes en informations précieusesn pour prendre des décisions éclairées. Je suis toujours à la recherche de nouvelles opportunités pour apprendre et appliquer mes compétences dans des projets réels.
 
-<br>
-<br>
+<br><br><br>
 
 ## 🔧 Compétences
 
