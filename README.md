@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis **SALAM** 
 ![Profile views](https://komarev.com/ghpvc/?username=mslouma88)
-![Version](https://img.shields.io/badge/version-1.5-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 
 
 
