@@ -2,8 +2,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mslouma88)
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 
-
-
 <!--<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=mslouma88" alt="mslouma88" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mslouma88&label=Profile%20views&color=0e75b6&style=flat" alt="mslouma88" /> </p>
 -->
@@ -26,6 +24,7 @@ Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, l
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  
   
 - **Outils de visualisation** :
@@ -62,6 +61,8 @@ Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, l
   
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     
 - **Environnements de développement** :
   
@@ -71,6 +72,7 @@ Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, l
   ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
     
 - **Systèmes d'exploitation** :
   
@@ -101,14 +103,7 @@ Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, l
 ## 🎓 Éducation
 
 - **Master en Data Analytics** à **Sorbonne paris 1**
-  - Cours principaux : Python, Sql, NoSql, Cloud, Analyse des données,Visualisation de données, Machine Learning,Deep learning, Statistiques avancées,Data Streaming,
-  - Projet de fin d'études : En Cours
-
-- **Master Informatique spécialité Développement Web** à **l'Ecole de management de paris**
-
-- **Master Information et communication** à **Université Toulon - Instinut Ingémedia**
-
-- **Licence en Informatique Appliquée à la gestion** à **L'université de Jendouba**
+  - Cours principaux : Python, Sql, NoSql, Cloud, Analyse des données,Visualisation de données, Machine Learning,Deep learning, Statistiques avancées,Data Streaming...
 
 ## 📬 Contact
 
