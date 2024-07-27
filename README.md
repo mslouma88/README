@@ -90,7 +90,7 @@ Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, l
 ## 📊 Statistiques de Contribution
 
 <!-- ![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical) -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mslouma88&show_icons=true&locale=en&layout=compact&theme=radical" alt="mslouma88" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mslouma88&show_icons=true&locale=en&layout=compact&theme=radical" alt="mslouma88" /></p> <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mslouma88&show_icons=true&theme=radical" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mslouma88&theme=radical" alt="mslouma88" /></p>
