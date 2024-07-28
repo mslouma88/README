@@ -14,7 +14,7 @@
 
 - 🔭 Je suis étudiant en **Data**  passionné par les *données*, les *statistiques* et le *machine learning*.
 - 🌱 Mon objectif est de *transformer* les données brutes en informations précieuses pour prendre des décisions éclairées.
-- 👯 Je suis toujours à la recherche de nouvelles *opportunités* pour apprendre et appliquer mes compétences dans des projets réels.
+- 🚀 Je suis toujours à la recherche de nouvelles *opportunités* pour apprendre et appliquer mes compétences dans des projets réels.
 - 🤝 Collaboration et partage de connaissances sont essentiels pour moi.
 - 💬 N'hésitez pas à me *contacter* pour discuter de projets ou de collaborations.
 - 📫 Vous pouvez me *joindre* via mon email ou LinkedIn.
