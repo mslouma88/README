@@ -10,11 +10,15 @@
 
 <p align="right">
 <h2>🌟 À propos de moi</h2>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" align="left" alt="Bienvenue">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9vOXNvN3p0bmp1OW9zdWNqdTlrMDkyc2p1cnZsYW1lazlqbzdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" align="right" alt="Bienvenue" width="400"height="300">
 
-Je suis <b>étudiant en Data Analytics</b> passionné par les <b>données</b>, les <b>statistiques</b> et le <b>machine learning<b>. Mon objectif est de transformer les données brutes en informations précieusesn pour prendre des décisions éclairées. Je suis toujours à la recherche de nouvelles opportunités pour apprendre et appliquer mes compétences dans des projets réels.
-
-<br><br><br>
+- 🔭 Je suis étudiant en **Data**  passionné par les *données*, les *statistiques* et le *machine learning*.
+- 🌱 Mon objectif est de *transformer* les données brutes en informations précieuses pour prendre des décisions éclairées.
+- 👯 Je suis toujours à la recherche de nouvelles *opportunités* pour apprendre et appliquer mes compétences dans des projets réels.
+- 🤝 Collaboration et partage de connaissances sont essentiels pour moi.
+- 💬 N'hésitez pas à me *contacter* pour discuter de projets ou de collaborations.
+- 📫 Vous pouvez me *joindre* via mon email ou LinkedIn.
+- ⚡ J'aime relever des *défis* et *découvrir* de nouvelles technologies.
 
 ## 🔧 Compétences
 
